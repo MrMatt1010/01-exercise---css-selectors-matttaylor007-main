@@ -1,0 +1,55 @@
+/* 
+Colours used in the design:
+- plum
+- stellblue
+- hotpink
+- green
+- gold
+- tomato
+- lightseagreen
+- darkblue
+- blueviolet
+*/
+
+/* 
+  An example of a CSS Selector to set the text colour 
+*/
+h1 {
+  color: plum;
+}
+
+/* 
+  Add more CSS Selectors below to set the text colour
+  The colour of the text should match the colour in brackets in the HTML file
+*/
+.tomato {
+  color: tomato;
+}
+
+.tomato>a {
+  color: blueviolet;
+}
+
+em {
+  color: gold;
+}
+
+h2 {
+  color: darkblue;
+}
+
+.darkblue {
+  color: darkblue;
+}
+
+#lightseagreen {
+  color: lightseagreen;
+}
+
+p {
+  color: steelblue;
+}
+
+a {
+  color: hotpink
+}
